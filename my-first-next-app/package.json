@@ -1,0 +1,21 @@
+{
+  "name": "my-first-next-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "now-build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin",
+  "license": "ISC",
+  "dependencies": {
+    "images": "3.2.2",
+    "next": "9.4.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
